@@ -1,0 +1,14 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello World", "author": "张三" },
+    { "id": 2, "title": "json-server 真好用", "author": "李四" }
+  ],
+  "comments": [
+    { "id": 1, "body": "太棒了！", "postId": 1 },
+    { "id": 2, "body": "支持一下", "postId": 1 }
+  ],
+  "profile": {
+    "name": "管理员",
+    "email": "admin@example.com"
+  }
+}
